@@ -1,4 +1,4 @@
-package enums;
+package EnumPrac;
 
 import java.util.Arrays;
 import java.util.Map;

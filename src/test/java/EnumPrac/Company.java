@@ -1,4 +1,4 @@
-package enums;
+package EnumPrac;
 
 enum Company{
     GOOGLE, APPLE, ORACLE;

@@ -1,4 +1,4 @@
-package enums;
+package EnumPrac;
 
 import java.util.Optional;
 
