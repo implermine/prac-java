@@ -1,4 +1,4 @@
-package org.example.basic.generic;
+package org.example.__temp.generic;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

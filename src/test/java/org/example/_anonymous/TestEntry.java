@@ -1,4 +1,4 @@
-package org.example.basic.anonymous_;
+package org.example._anonymous;
 
 import org.junit.jupiter.api.Test;
 

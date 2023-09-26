@@ -1,4 +1,4 @@
-package org.example.basic.enum_.woowahan;
+package org.example._enum.woowahan;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

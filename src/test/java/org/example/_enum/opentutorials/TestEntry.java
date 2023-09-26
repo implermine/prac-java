@@ -1,4 +1,4 @@
-package org.example.basic.enum_.opentutorials;
+package org.example._enum.opentutorials;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

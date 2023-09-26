@@ -1,4 +1,4 @@
-package org.example.basic.generic;
+package org.example.__temp.generic;
 
 import java.util.ArrayList;
 import java.util.List;

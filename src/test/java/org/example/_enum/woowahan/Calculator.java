@@ -1,4 +1,4 @@
-package org.example.basic.enum_.woowahan;
+package org.example._enum.woowahan;
 
 public enum Calculator {
 

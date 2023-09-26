@@ -1,4 +1,4 @@
-package org.example.basic;
+package org.example._implicit_casting;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -22,6 +22,9 @@ public class ImplicitCastingTest {
 
         System.out.println(result.getClass());
         Assertions.assertThat(result).isInstanceOf(Double.class);
+
+        //Integer is implicitly cast to Double
+        //Integer -> Double
 
     }
 }
