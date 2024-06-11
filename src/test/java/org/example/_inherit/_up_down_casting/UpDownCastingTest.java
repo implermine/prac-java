@@ -1,4 +1,4 @@
-package org.example._up_down_casting;
+package org.example._inherit._up_down_casting;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
